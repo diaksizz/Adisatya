@@ -1,6 +1,8 @@
 # Adisatya
 Menggunakan Django
-<p>1.Python manage.py makemigrations</p>
-2.Python manage.py migrate
-3.Python manage.py runserver
-4.Username : admin | Password : 1234adminn
+<th>
+<td>1.Python manage.py makemigrations</td>
+<td>2.Python manage.py migrate</td>
+<td>3.Python manage.py runserver</td>
+<td>4.Username : admin | Password : 1234adminn</td>
+
